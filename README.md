@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M.A.M Amhar - @thecodemonster1 
 - 👀 I’m interested in Programming and IoT
-- 🌱 I’m currently learning Python, C++ and Java
+- 🌱 I’m currently learning Python, PHP, JS
 - 💞️ I’m looking to collaborate on programming community
 - 📫 How to reach me amharmohamed@icloud.com or amharazwar@gmail.com
 
