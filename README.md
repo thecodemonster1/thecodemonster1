@@ -1,8 +1,8 @@
-<div align="center">
+
 # 💫 About Me:
 - 👋 Hi, I’m M.A.M Amhar - @thecodemonster1 <br>- 👀 I’m interested in Programming, IoT and Mobile/Web Application Development<br>- 🌱 I’m currently learning Python, C++, C, Swift and Java<br>- 💞️ I’m looking to collaborate on programming community<br>- 📫 How to reach me amharmohamed@icloud.com or amharazwar@gmail.com
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thecodemonster1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@thecodemonster1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@TheCodeMonster2001) [![WhatsApp](https://drive.google.com/uc?export=view&id=1OS_6iHffMKFYh4UsJd7PstHqrSClcAZm ) Whatsapp](http://Wa.me//+94776482727 "WhatsApp") 
 
