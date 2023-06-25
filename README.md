@@ -1,4 +1,4 @@
-<body align="center">
+<center>
 # 💫 About Me:
 - 👋 Hi, I’m M.A.M Amhar - @thecodemonster1 <br>- 👀 I’m interested in Programming, IoT and Mobile/Web Application Development<br>- 🌱 I’m currently learning Python, C++, C, Swift and Java<br>- 💞️ I’m looking to collaborate on programming community<br>- 📫 How to reach me amharmohamed@icloud.com or amharazwar@gmail.com
 
@@ -27,4 +27,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</body>
+</center>
