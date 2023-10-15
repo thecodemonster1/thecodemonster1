@@ -14,7 +14,7 @@
 <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thecodemonster1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@thecodemonster1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@TheCodeMonster2001) [![WhatsApp](https://drive.google.com/uc?id=1OS_6iHffMKFYh4UsJd7PstHqrSClcAZm ) Whatsapp](http://Wa.me//+94773162727 "WhatsApp") [![Replit]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thecodemonster1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@thecodemonster1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@TheCodeMonster2001) [![WhatsApp](https://drive.google.com/uc?id=1OS_6iHffMKFYh4UsJd7PstHqrSClcAZm ) Whatsapp](http://Wa.me//+94773162727 "WhatsApp") [![Repl.it](https://replit.com/public/icons/favicon-prompt-192.png) Replit](https://replit.com/@theCodeMonster "Repl.it")
 
 <br/>
 
